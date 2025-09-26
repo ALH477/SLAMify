@@ -1,3 +1,4 @@
+```
  ________  ___       ________  _____ ______   ___  ________ ___    ___ 
 |\   ____\|\  \     |\   __  \|\   _ \  _   \|\  \|\  _____\\  \  /  /|
 \ \  \___|\ \  \    \ \  \|\  \ \  \\\__\ \  \ \  \ \  \__/\ \  \/  / /
@@ -7,7 +8,7 @@
    |\_________\|_______|\|__|\|__|\|__|     \|__|\|__|\|__|\___/ /     
    \|_________|                                           \|___|/      
                                                                        
-
+```
 # DeMoD LLC Stereo Annotation Tool
 
 A modular pipeline for annotating high-frame-rate stereo videos with depth, segmentation, and SLAM trajectories, optimized for egocentric datasets (e.g., trail biking for AR navigation). Supports OpenCV rectification, SAM, and depth models (RAFT, DROID-SLAM, etc.) with ROCm compatibility.
