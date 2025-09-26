@@ -9,7 +9,6 @@
    \|_________|                                           \|___|/      
                                                                        
 ```
-![SLAM](https://tenor.com/bmIHR.gif)
 # DeMoD LLC Stereo Annotation Tool
 
 A modular pipeline for annotating high-frame-rate stereo videos with depth, segmentation, and SLAM trajectories, optimized for egocentric datasets (e.g., trail biking for AR navigation). Supports OpenCV rectification, SAM, and depth models (RAFT, DROID-SLAM, etc.) with ROCm compatibility.
@@ -82,3 +81,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. We welcome new models, bu
 - Asher LeRoy for primary development.
 - Grok 4 (Fast Beta) by xAI for code assistance and optimization.
 - Open-source communities of PyTorch, OpenCV, and referenced models.
+![SLAM](bitmap.png)
