@@ -27,8 +27,8 @@ A modular pipeline for annotating high-frame-rate stereo videos with depth, segm
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DeMoD-LLC/stereo-annotation-tool.git
-   cd stereo-annotation-tool
+   git clone https://github.com/DeMoD-LLC/SLAMify.git
+   cd SLAMify
    ```
 2. Install dependencies:
    ```bash
