@@ -9,6 +9,7 @@
    \|_________|                                           \|___|/      
                                                                        
 ```
+![SLAM]([https://x.com/i/status/1971435267396648964](https://tenor.com/bmIHR.gif))
 # DeMoD LLC Stereo Annotation Tool
 
 A modular pipeline for annotating high-frame-rate stereo videos with depth, segmentation, and SLAM trajectories, optimized for egocentric datasets (e.g., trail biking for AR navigation). Supports OpenCV rectification, SAM, and depth models (RAFT, DROID-SLAM, etc.) with ROCm compatibility.
