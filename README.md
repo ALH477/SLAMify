@@ -46,7 +46,7 @@ A modular pipeline for annotating high-frame-rate stereo videos with depth, segm
 ## Usage
 Run the TUI:
 ```bash
-python stereo_annotation.py
+python SLAMify.py
 ```
 Navigate with UP/DOWN, select with ENTER, quit with Q. Configure depth/SAM models, video path, and output HDF5. Toggle rectification/SLAM as needed.
 
